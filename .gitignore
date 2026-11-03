@@ -1,0 +1,8 @@
+# Dados confidenciais e saídas geradas
+data/
+*.xlsx
+*.xls
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
